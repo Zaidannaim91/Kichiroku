@@ -1,0 +1,33 @@
+{
+   "title":"[Kichiroku] I'm Not Your Idol!",
+   "description":"",
+   "author":"Kichiroku",
+   "artist":"Kichiroku",
+   "cover":"https://i.imgur.com/kcWHTbo.jpg",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/R5hJGwJ"
+         },
+         "last_updated":1624606143,
+         "title":"I'm Not Your Idol!",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/q1SeBFe"
+         },
+         "last_updated":1624606143,
+         "title":"I'm Not Your Idol! 2 - School Idol Punishment",
+         "volume":"2"
+      },
+      "3":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/yZ90Dbl"
+         },
+         "last_updated":1624606143,
+         "title":"I'm Not Your Idol! 3 - Starlight School",
+         "volume":"3"         
+      }
+   }
+}
